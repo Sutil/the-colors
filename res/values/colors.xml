@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="VERMELHO">#F00</color>
+	<color name="ROXO">#9500a2</color>
+	<color name="AZUL">#00F</color>
+	<color name="VERDE">#0F0</color>
+	<color name="AMARELO">#eeee00</color>
+	<color name="LARANJA">#ff8c00</color>
+	<color name="ROSA">#ff2089</color>
+	<color name="PRETO">#000</color>
+	<color name="MARROM">#8B4513</color>
+	<color name="CINZA">#999</color>
+    
+</resources>
